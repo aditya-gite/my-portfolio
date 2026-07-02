@@ -1,4 +1,7 @@
+[build]
+  publish = "client"
+
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/assets/index-bblek2gk.js"
   status = 200
